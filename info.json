@@ -1,6 +1,6 @@
 {
 	"name":"CleanFloor",
-	"version":"0.1.0",
+	"version":"0.1.1",
 	"title":"Clean Floor",
 	"description":"Remove all decorations when placing floor tiles.",
 	"author":"David Skrundz",
@@ -8,6 +8,6 @@
 	"homepage": "https://github.com/DavidSkrundz/CleanFloor",
 	"factorio_version": "0.18",
 	"dependencies": [
-		"base >= 0.18.0"
+		"? base"
 	]
 }
