@@ -6,7 +6,7 @@
 	"author": "David Skrundz",
 	"contact": "david@skrundz.ca",
 	"homepage": "https://github.com/DavidSkrundz/CleanFloor",
-	"factorio_version": "1.0",
+	"factorio_version": "1.1",
 	"dependencies": [
 		"? base"
 	]
